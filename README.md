@@ -18,8 +18,9 @@ Proyek ini menggunakan API cuaca untuk memprediksi kondisi cuaca di berbagai lok
 
    # Cara penggunaan
 
-contoh
+contoh:
+
  `node --no-deprecation index.js Jakarta Asia/Indonesia/Jakarta`
 
-`node --no-deprecation.js {KOTA} {BENUA}/{NEGARA}/{KOTA}
+`node --no-deprecation.js {KOTA} {BENUA}/{NEGARA}/{KOTA}`
  
