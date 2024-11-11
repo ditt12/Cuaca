@@ -4,7 +4,7 @@
   "description": "Proyek untuk mendapatkan informasi cuaca dari API",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --no-deprecation index.js Jakarta Asia/Indonesia/Jakarta"
   },
   "author": "asrv",
   "license": "MIT",
