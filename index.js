@@ -1,4 +1,3 @@
-// Gunakan import() untuk memuat node-fetch secara dinamis
 (async () => {
   const fetch = (await import('node-fetch')).default;
   const moment = require('moment-timezone');
