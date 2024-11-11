@@ -1,6 +1,17 @@
 {
+  "name": "cuaca",
+  "version": "1.0.0",
+  "description": "Proyek untuk mendapatkan informasi cuaca dari API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "asrv",
+  "license": "MIT",
   "dependencies": {
-    "moment-timezone": "^0.5.46",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
